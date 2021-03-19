@@ -1,0 +1,12 @@
+C:\Users\renat\OneDrive\Documents\Aulas_C#\Exercicios\Modificador_Parametros\Modificador_Parametros\bin\Debug\netcoreapp3.1\Modificador_Parametros.exe
+C:\Users\renat\OneDrive\Documents\Aulas_C#\Exercicios\Modificador_Parametros\Modificador_Parametros\bin\Debug\netcoreapp3.1\Modificador_Parametros.deps.json
+C:\Users\renat\OneDrive\Documents\Aulas_C#\Exercicios\Modificador_Parametros\Modificador_Parametros\bin\Debug\netcoreapp3.1\Modificador_Parametros.runtimeconfig.json
+C:\Users\renat\OneDrive\Documents\Aulas_C#\Exercicios\Modificador_Parametros\Modificador_Parametros\bin\Debug\netcoreapp3.1\Modificador_Parametros.runtimeconfig.dev.json
+C:\Users\renat\OneDrive\Documents\Aulas_C#\Exercicios\Modificador_Parametros\Modificador_Parametros\bin\Debug\netcoreapp3.1\Modificador_Parametros.dll
+C:\Users\renat\OneDrive\Documents\Aulas_C#\Exercicios\Modificador_Parametros\Modificador_Parametros\bin\Debug\netcoreapp3.1\Modificador_Parametros.pdb
+C:\Users\renat\OneDrive\Documents\Aulas_C#\Exercicios\Modificador_Parametros\Modificador_Parametros\obj\Debug\netcoreapp3.1\Modificador_Parametros.AssemblyInfoInputs.cache
+C:\Users\renat\OneDrive\Documents\Aulas_C#\Exercicios\Modificador_Parametros\Modificador_Parametros\obj\Debug\netcoreapp3.1\Modificador_Parametros.AssemblyInfo.cs
+C:\Users\renat\OneDrive\Documents\Aulas_C#\Exercicios\Modificador_Parametros\Modificador_Parametros\obj\Debug\netcoreapp3.1\Modificador_Parametros.csproj.CoreCompileInputs.cache
+C:\Users\renat\OneDrive\Documents\Aulas_C#\Exercicios\Modificador_Parametros\Modificador_Parametros\obj\Debug\netcoreapp3.1\Modificador_Parametros.dll
+C:\Users\renat\OneDrive\Documents\Aulas_C#\Exercicios\Modificador_Parametros\Modificador_Parametros\obj\Debug\netcoreapp3.1\Modificador_Parametros.pdb
+C:\Users\renat\OneDrive\Documents\Aulas_C#\Exercicios\Modificador_Parametros\Modificador_Parametros\obj\Debug\netcoreapp3.1\Modificador_Parametros.genruntimeconfig.cache

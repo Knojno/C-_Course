@@ -1,0 +1,13 @@
+C:\Users\renat\OneDrive\Documents\Aulas_C#\Exercicios\Exercio_Quartos_Pousada\Exercio_Quartos_Pousada\bin\Debug\netcoreapp3.1\Exercio_Quartos_Pousada.exe
+C:\Users\renat\OneDrive\Documents\Aulas_C#\Exercicios\Exercio_Quartos_Pousada\Exercio_Quartos_Pousada\bin\Debug\netcoreapp3.1\Exercio_Quartos_Pousada.deps.json
+C:\Users\renat\OneDrive\Documents\Aulas_C#\Exercicios\Exercio_Quartos_Pousada\Exercio_Quartos_Pousada\bin\Debug\netcoreapp3.1\Exercio_Quartos_Pousada.runtimeconfig.json
+C:\Users\renat\OneDrive\Documents\Aulas_C#\Exercicios\Exercio_Quartos_Pousada\Exercio_Quartos_Pousada\bin\Debug\netcoreapp3.1\Exercio_Quartos_Pousada.runtimeconfig.dev.json
+C:\Users\renat\OneDrive\Documents\Aulas_C#\Exercicios\Exercio_Quartos_Pousada\Exercio_Quartos_Pousada\bin\Debug\netcoreapp3.1\Exercio_Quartos_Pousada.dll
+C:\Users\renat\OneDrive\Documents\Aulas_C#\Exercicios\Exercio_Quartos_Pousada\Exercio_Quartos_Pousada\bin\Debug\netcoreapp3.1\Exercio_Quartos_Pousada.pdb
+C:\Users\renat\OneDrive\Documents\Aulas_C#\Exercicios\Exercio_Quartos_Pousada\Exercio_Quartos_Pousada\obj\Debug\netcoreapp3.1\Exercio_Quartos_Pousada.csprojAssemblyReference.cache
+C:\Users\renat\OneDrive\Documents\Aulas_C#\Exercicios\Exercio_Quartos_Pousada\Exercio_Quartos_Pousada\obj\Debug\netcoreapp3.1\Exercio_Quartos_Pousada.AssemblyInfoInputs.cache
+C:\Users\renat\OneDrive\Documents\Aulas_C#\Exercicios\Exercio_Quartos_Pousada\Exercio_Quartos_Pousada\obj\Debug\netcoreapp3.1\Exercio_Quartos_Pousada.AssemblyInfo.cs
+C:\Users\renat\OneDrive\Documents\Aulas_C#\Exercicios\Exercio_Quartos_Pousada\Exercio_Quartos_Pousada\obj\Debug\netcoreapp3.1\Exercio_Quartos_Pousada.csproj.CoreCompileInputs.cache
+C:\Users\renat\OneDrive\Documents\Aulas_C#\Exercicios\Exercio_Quartos_Pousada\Exercio_Quartos_Pousada\obj\Debug\netcoreapp3.1\Exercio_Quartos_Pousada.dll
+C:\Users\renat\OneDrive\Documents\Aulas_C#\Exercicios\Exercio_Quartos_Pousada\Exercio_Quartos_Pousada\obj\Debug\netcoreapp3.1\Exercio_Quartos_Pousada.pdb
+C:\Users\renat\OneDrive\Documents\Aulas_C#\Exercicios\Exercio_Quartos_Pousada\Exercio_Quartos_Pousada\obj\Debug\netcoreapp3.1\Exercio_Quartos_Pousada.genruntimeconfig.cache
