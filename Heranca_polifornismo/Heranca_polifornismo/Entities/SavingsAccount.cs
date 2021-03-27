@@ -4,7 +4,8 @@ using System.Text;
 
 namespace Heranca_polifornismo.Entities
 {
-    class SavingsAccount : Account
+    sealed class SavingsAccount : Account
+        //SEALED -> evita herdar da classe selada
     {
         public double InterestRate { get; set; }
         public SavingsAccount()
@@ -22,7 +23,8 @@ namespace Heranca_polifornismo.Entities
             Balance += Balance * InterestRate;
         }
 
-        public override void WithDraw(double amount)
+        // SEALED num metodo proibe que ele possa ser sobreposto em outras classes filhas 
+        public sealed override void WithDraw(double amount)
         {
             base.WithDraw(amount);
             Balance -= 2.0;
