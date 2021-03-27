@@ -9,6 +9,12 @@ namespace Heranca_polifornismo
         {
             Account acc = new Account(1001, "Alex", 0.0);
             BusinessAccount bacc = new BusinessAccount(1002, "Maria", 0.0, 500.0);
+            Account acc6 = new Account(1001, "Krug", 500.0);
+            Account acc7 = new SavingsAccount(1002, "Vinia", 500.0, 0.01);
+
+            acc6.WithDraw(10.0);
+            acc7.WithDraw(10.0);
+            Console.WriteLine("["+ acc6.Balance + "]"+"[" + acc7.Balance + "]");
 
             //UPCASTING
             Account acc1 = bacc;
